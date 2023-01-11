@@ -1,0 +1,15 @@
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.csproj.AssemblyReference.cache
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.AssemblyInfoInputs.cache
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.AssemblyInfo.cs
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.csproj.CoreCompileInputs.cache
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/bin/Debug/net7.0/IncomeExercise
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/bin/Debug/net7.0/IncomeExercise.deps.json
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/bin/Debug/net7.0/IncomeExercise.runtimeconfig.json
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/bin/Debug/net7.0/IncomeExercise.dll
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/bin/Debug/net7.0/IncomeExercise.pdb
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.dll
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/refint/IncomeExercise.dll
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.pdb
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/IncomeExercise.genruntimeconfig.cache
+/Users/danielmorais/Documents/Courses/C#/IncomeExercise/IncomeExercise/obj/Debug/net7.0/ref/IncomeExercise.dll
